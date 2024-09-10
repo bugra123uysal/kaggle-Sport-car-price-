@@ -1,0 +1,1008 @@
+﻿Car Make;Car Model;Year;Engine Size (L);Horsepower;Torque (lb-ft);0-60 MPH Time (seconds);Price (in USD)
+Porsche;911;2022;3;379;331;4;101,2
+Lamborghini;Huracan;2021;45327;630;443;2.Ağu;274,39
+Ferrari;488 GTB;2022;45538;661;561;3;333,75
+Audi;R8;2022;45327;562;406;3.Şub;142,7
+McLaren;720S;2021;4;710;568;2.Tem;298
+BMW;M8;2022;45386;617;553;3.Oca;130
+Mercedes-Benz;AMG GT;2021;4;523;494;3.Ağu;118,5
+Chevrolet;Corvette;2021;45328;490;465;2.Ağu;59,9
+Ford;Mustang Shelby GT500;2022;45327;760;625;3.May;81
+Nissan;GT-R Nismo;2021;45507;600;481;2.May;212
+Aston Martin;DB11;2021;45327;630;516;3.May;201,495
+Bugatti;Chiron;2021;8;1500;1180;2.Nis;3,000,000
+Dodge;Challenger SRT Hellcat;2022;45328;717;656;3.May;61
+Jaguar;F-Type;2022;3;296;295;5.Nis;70,1
+Koenigsegg;Jesko;2021;5;1280;1015;2.May;2,800,000
+Lexus;LC 500;2021;5;471;398;4.Nis;92,95
+Lotus;Evora GT;2021;45415;416;317;3.Ağu;104,45
+Maserati;GranTurismo;2021;45477;454;384;4.Ağu;150
+Porsche;Boxster;2021;2;300;280;4.Tem;62
+Alfa Romeo;Giulia Quadrifoglio;2022;45537;505;443;3.Ağu;78
+Ariel;Atom;2021;2;320;243;2.Ağu;75
+Bentley;Continental GT;2021;6;626;664;3.Haz;225
+McLaren;Artura;2022;3;671;531;3;225
+Mercedes-AMG;SLS AMG;2021;45328;622;468;3.May;248
+Pagani;Huayra;2021;6;720;737;2.Ağu;2,800,000
+Polestar;1;2021;2;600;738;4.Oca;155
+Rimac;Nevera;2022;Electric;1914;1696;Oca.85;2,400,000
+Porsche;Cayman GT4;2022;4;414;309;3.Ağu;100,2
+Lamborghini;Aventador SVJ;2021;45418;759;531;2.Ağu;517,77
+Ferrari;SF90 Stradale;2021;4;986;590;2.May;625
+Audi;RS7;2022;4;591;590;3.May;117
+McLaren;Artura;2021;3;671;531;3;225
+BMW;M4;2022;3;503;479;3.Ağu;72,8
+Mercedes-Benz;SLS AMG;2015;45328;622;468;3.Şub;222
+Chevrolet;Camaro ZL1;2021;45328;650;650;3.May;64,695
+Ford;GT;2022;45415;660;550;3;500
+Nissan;370Z Nismo;2021;45476;350;276;4.May;45,69
+Porsche;Taycan 4S;2022;Electric Motor;562;479;3.Ağu;104
+Lamborghini;Urus;2021;4;641;626;3.May;218
+Ferrari;Roma;2021;45538;611;561;3.Mar;222
+Audi;RS3;2022;45414;394;369;3.Eyl;57
+McLaren;GT;2021;4;612;465;3.Oca;210
+BMW;i8;2020;1.5 + Electric;369;420;4.Şub;148,5
+Mercedes-Benz;CLS63 AMG;2019;4;603;627;3.Nis;132
+Porsche;Cayman;2021;2;300;280;5.Oca;58,9
+Lamborghini;Aventador SVJ;2021;45418;759;531;2.Ağu;518
+Ferrari;SF90 Stradale;2021;4;986;590;2.May;625
+Audi;RS3;2022;45414;394;369;3.Eyl;56,2
+McLaren;570S;2021;45507;562;443;2.Ağu;192,5
+BMW;M4;2022;3;503;479;3.Ağu;71,8
+Mercedes-Benz;AMG C63;2021;4;503;516;3.Ağu;68
+Chevrolet;Camaro SS;2021;45328;455;455;4.Oca;42,5
+Ford;Mustang GT;2022;5;460;420;4.Mar;39
+Nissan;370Z Nismo;2021;45476;350;276;4.Ağu;46,1
+Aston Martin;Vantage;2021;4;503;505;3.May;142,1
+Lotus;Evora GT;2021;45415;416;317;3.Ağu;105
+Porsche;Panamera;2021;45537;325;331;5.Oca;87,2
+Lamborghini;Urus;2021;4;641;627;3.Şub;218
+Ferrari;Roma;2021;45538;612;560;3.Nis;222
+Audi;S5;2022;3;349;369;4.Nis;52,5
+McLaren;600LT;2021;45507;592;457;2.Ağu;241
+BMW;M5;2022;45386;600;553;3.Şub;103,5
+Aston Martin;Vantage;2022;4;503;505;3.May;146
+Audi;RS5;2021;45537;444;443;3.Haz;75,4
+BMW;M2;2022;3;405;406;4;58,9
+Chevrolet;Camaro SS;2021;45328;455;455;4;42,9
+Dodge;Challenger SRT Hellcat Redeye;2022;45328;797;707;3.Nis;78,595
+Ford;GT;2021;45415;660;550;3;500
+Jaguar;F-Type;2022;2;296;295;5.Nis;62,75
+Lamborghini;Aventador;2021;45418;770;531;2.Eyl;417,826
+Maserati;GranTurismo;2021;45477;454;384;4.Tem;150,98
+McLaren;Artura;2022;3;671;531;3;225
+Mercedes-Benz;C63 AMG;2021;4;503;516;3.Ağu;70,1
+Nissan;370Z;2021;45476;332;270;5;30,09
+Porsche;Panamera;2022;45537;325;331;5.Mar;88,7
+Audi;TT RS;2021;45414;394;354;3.Haz;67,6
+BMW;M4;2022;3;473;406;4.Oca;72,8
+Chevrolet;Corvette Stingray;2021;45328;490;465;2.Ağu;59,9
+Ferrari;F8 Tributo;2021;45538;710;568;2.Ağu;274,28
+Ford;Mustang Mach 1;2021;5;480;420;4.Mar;52,915
+Lamborghini;Urus;2021;4;641;627;3.Haz;218,009
+Porsche;718 Cayman;2022;2;300;280;4.May;61
+Acura;NSX;2022;45415;573;476;2.Eyl;159,495
+Aston Martin;Vantage;2022;4;503;505;3.May;142,086
+Bentley;Continental GT;2021;6;626;664;3.Mar;219,8
+Bugatti;Chiron;2022;8;1500;1180;2.Nis;3,000,000
+Dodge;Challenger SRT Hellcat Redeye;2022;45328;797;707;3.Nis;74,29
+Jaguar;F-Type;2022;3;380;339;4.Eyl;71,9
+Koenigsegg;Jesko;2022;5;1600;1106;2.May;3,000,000
+Lexus;LC 500;2022;5;471;398;4.Nis;92,95
+Lotus;Evora GT;2021;45415;416;317;3.Ağu;105
+Maserati;GranTurismo;2022;45477;454;384;4.Tem;134,3
+Mazda;MX-5 Miata;2021;2;181;151;6.May;26,83
+McLaren;GT;2022;4;620;465;3.Oca;213,195
+Mercedes-Benz;SLS AMG;2015;45328;622;468;3.Tem;221,58
+Pagani;Huayra;2022;6;764;738;2.Ağu;2,800,000
+Porsche;718 Cayman GT4;2022;4;414;309;4.Şub;100,55
+Rimac;Nevera;2022;Electric;1914;1696;Oca.95;2,400,000
+Rolls-Royce;Wraith;2021;45510;624;605;4.Nis;330
+Tesla;Roadster;2022;Electric;1000;737;1.Eyl;200
+Toyota;Supra;2022;3;382;368;3.Eyl;43,09
+W Motors;Fenyr Supersport;2022;45507;800;723;2.Tem;1,700,000
+Porsche;718 Cayman;2022;2;300;280;4.Tem;60,5
+Lamborghini;Aventador;2021;45418;770;531;2.Eyl;522
+Ferrari;SF90 Stradale;2021;4;986;590;2.May;625
+Audi;TT RS;2022;45414;394;354;3.Nis;67
+McLaren;GT;2021;4;612;465;3.Oca;212,5
+BMW;M4;2022;3;503;479;3.Ağu;75
+Mercedes-Benz;SL 63 AMG;2021;4;603;664;3.May;155
+Chevrolet;Camaro ZL1;2021;45328;650;650;3.May;64
+Ford;GT;2022;45415;660;550;2.Ağu;500
+Nissan;370Z;2021;45476;332;270;4.Tem;31,015
+Aston Martin;DBS Superleggera;2021;45327;715;664;3.Nis;304,995
+Bugatti;Chiron;2021;8;1500;1180;2.Nis;3,000,000
+Lotus;Evora GT;2021;45415;416;317;3.Ağu;105
+McLaren;570S;2021;45507;562;443;3.Şub;192,5
+Porsche;Panamera Turbo S E-Hybrid;2021;4;690;642;3.Şub;190
+Lamborghini;Urus;2021;4;641;627;3.Haz;222
+Ferrari;Roma;2021;45538;611;561;3.Mar;222
+Audi;RS7;2021;4;591;590;3.May;115
+BMW;M2;2022;3;405;406;4.Şub;59
+Porsche;Cayman GT4;2022;4;414;309;4.Şub;102,1
+Lamborghini;Aventador;2021;45418;730;509;2.Eyl;417,826
+Aston Martin;DBS Superleggera;2021;45327;715;664;3.Şub;304,995
+Bentley;Continental GT;2021;6;626;664;3.Haz;220,3
+Audi;RS7;2022;4;591;590;3.May;114
+Mercedes-Benz;SLS AMG;2021;45328;622;468;3.Tem;239,1
+McLaren;570S;2021;45507;562;443;3.Oca;192,5
+BMW;M2;2022;3;405;406;4;58,9
+Chevrolet;Camaro ZL1;2021;45328;650;650;3.May;62,5
+Dodge;Challenger SRT Hellcat;2021;45328;717;656;3.May;65,29
+Ferrari;Portofino;2021;45538;592;560;3.May;219,75
+Porsche;Panamera Turbo S;2022;4;620;604;2.Eyl;187,7
+Lamborghini;Urus;2021;4;641;627;3.Haz;222,004
+Mercedes-Benz;AMG C63;2021;4;469;479;3.Ağu;71,35
+Aston Martin;Vantage;2021;4;503;505;3.Haz;146
+Audi;S5;2022;3;349;369;4.Nis;52,5
+Porsche;Cayman;2022;45414;365;309;4.May;68,9
+Lamborghini;Aventador;2021;45418;730;507;2.Ağu;517,77
+Ferrari;F8 Tributo;2022;45538;710;568;2.Eyl;276,55
+Audi;TT RS;2021;45414;394;354;3.Haz;67,6
+McLaren;570S;2021;45507;562;443;3.Oca;192,5
+BMW;Z4 M40i;2022;3;382;369;3.Eyl;63,7
+Mercedes-Benz;SLS AMG;2015;45328;622;468;3.Tem;221,58
+Chevrolet;Camaro SS;2022;45328;455;455;4.Oca;44
+Ford;Mustang Mach 1;2021;5;480;420;4;51,72
+Nissan;370Z Nismo;2021;45476;350;276;4.Eyl;45,79
+Porsche;Panamera;2022;45537;325;331;5.Nis;88,55
+Lamborghini;Urus;2021;4;641;627;3.May;218,009
+Ferrari;Roma;2021;45538;612;561;3.Mar;222,62
+Audi;RS 3;2022;45414;401;369;3.Haz;56,2
+McLaren;GT;2021;4;612;465;3.Şub;200
+BMW;M2 CS;2022;3;444;406;3.Ağu;84,595
+Mercedes-Benz;AMG C63;2021;4;503;516;3.Ağu;77,5
+Chevrolet;Camaro ZL1;2021;45328;650;650;3.May;62,5
+Acura;NSX;2021;45415;573;476;2.Tem;157,5
+Aston Martin;DB11;2022;4;503;513;3.Tem;204,1
+Bentley;Continental GT;2021;6;626;664;3.Nis;220,3
+Bugatti;Chiron;2021;8;1500;1180;2.Nis;3,000,000
+Dodge;Viper;2017;45390;645;600;3.Mar;120
+Jaguar;F-Type;2022;3;380;339;4.Eyl;69,9
+Koenigsegg;Jesko;2022;5;1600;1106;2.May;3,000,000
+Lexus;LC 500;2022;5;471;398;4.Nis;92,95
+Lotus;Evora GT;2021;45415;416;317;3.Ağu;105,95
+Maserati;GranTurismo;2020;45477;454;384;4.Ağu;150
+McLaren;570S;2020;45507;562;443;3.Oca;204,55
+Pagani;Huayra;2020;6;720;738;3;2,700,000
+Porsche;Cayman GT4;2022;4;414;309;4.Şub;102,9
+Rimac;C_Two;2022;N/A;1914;1696;1.Eyl;2,400,000
+Rolls-Royce;Wraith;2021;45449;624;605;4.Mar;330
+Shelby;Cobra;1965;7;435;440;4.Şub;1,000,000
+Tesla;Model S Plaid;2021;N/A;1020;1050;Oca.98;131,19
+Toyota;GR Supra;2022;3;382;368;3.Eyl;43,09
+TVR;Griffith;2022;5;500;479;3.Ağu;123,5
+W Motors;Lykan Hypersport;2015;45476;780;708;2.Ağu;3,400,000
+Porsche;718 Cayman;2021;2;300;280;4.May;61,5
+Lamborghini;Aventador SVJ;2021;45418;770;531;2.Ağu;518
+Ferrari;SF90 Stradale;2022;4;986;590;2.May;507
+Audi;RS 6;2021;4;591;590;3.May;109
+McLaren;GT;2021;4;612;465;3.Oca;210
+BMW;M2 CS;2022;3;444;406;3.Ağu;84,595
+Mercedes-Benz;SLS AMG;2015;45328;622;468;3.Haz;228
+Chevrolet;Camaro SS;2021;45328;455;455;4;42
+Ford;GT;2022;45415;660;550;2.Ağu;500
+Nissan;370Z Nismo;2021;45476;350;276;5;45
+Porsche;Taycan;2021;Electric;750;774;2.Haz;185
+Lamborghini;Urus;2021;4;641;627;3.Haz;222,004
+Ferrari;F8 Tributo;2021;45538;710;568;2.Eyl;276,55
+Audi;RS 3;2022;45414;401;354;3.May;56
+McLaren;570S;2021;45507;562;443;3.Oca;191
+BMW;M5;2022;45386;600;553;3.Şub;104
+Mercedes-Benz;AMG C 63;2021;4;469;479;3.Eyl;69,9
+Chevrolet;Camaro ZL1;2021;45328;650;650;3.May;64
+Porsche;Taycan;2022;2;402;254;5.Oca;81,25
+Lamborghini;Aventador;2021;45418;730;509;2.Eyl;517,7
+Aston Martin;DBS Superleggera;2022;45327;715;663;3.Nis;330
+Audi;RS 6 Avant;2021;4;591;590;3.May;109
+McLaren;600LT;2021;45507;592;457;2.Ağu;242,5
+Mercedes-AMG;C 63 S Coupe;2022;4;503;516;3.Tem;77
+BMW;M4;2022;3;473;406;4.Oca;72,8
+Chevrolet;Camaro ZL1;2021;45328;650;650;3.May;62
+Dodge;Challenger SRT Hellcat Redeye;2022;45328;797;707;3.May;76
+Ford;GT;2022;45415;660;550;2.Eyl;500
+Nissan;370Z;2021;45476;332;270;4.Eyl;30,09
+Porsche;Panamera;2022;45537;325;332;5.Mar;87,2
+Lamborghini;Urus;2021;4;641;626;3.May;218
+Bugatti;Chiron;2021;8;1500;1180;2.Mar;3,000,000
+Ferrari;F8 Tributo;2021;45538;710;568;2.Eyl;274,28
+Audi;RS 7;2021;4;591;590;3.May;114
+McLaren;570S;2021;45507;562;443;3.Oca;191
+Aston Martin;Vantage;2022;4;503;505;3.May;142,086
+Jaguar;F-Type;2022;5;575;516;3.May;103,2
+Porsche;Panamera Turbo S;2021;4;620;604;2.Eyl;177,7
+Lamborghini;Aventador S;2021;45418;729;509;2.Eyl;417,65
+Ferrari;SF90 Stradale;2021;4;986;590;2.May;625
+Audi;RS7;2022;4;591;590;3.May;115,045
+McLaren;600LT;2021;45507;592;457;2.Eyl;256,5
+BMW;M2 Competition;2022;3;405;406;4;59,895
+Mercedes-Benz;S63 AMG;2021;4;603;664;3.Nis;152,5
+Chevrolet;Camaro ZL1;2021;45328;650;650;3.May;64,695
+Dodge;Challenger SRT Hellcat;2022;45328;717;656;3.May;69,995
+Ford;GT;2022;45415;660;550;2.Eyl;500
+Porsche;Taycan Turbo S;2021;N/A;750;774;2.Haz;185
+Lamborghini;Urus;2021;4;641;627;3.Şub;218,009
+Ferrari;812 Superfast;2021;45418;789;530;2.Eyl;363,73
+Audi;R8 Spyder;2022;45327;562;406;3.May;183,3
+McLaren;GT;2021;4;612;465;3.Oca;210
+BMW;M4;2022;3;473;406;4.Oca;73,795
+Mercedes-Benz;AMG GT R;2021;4;577;516;3.May;183
+Chevrolet;Corvette Stingray;2021;45328;495;470;2.Eyl;60,995
+Aston Martin;DB11;2022;45327;630;516;3.May;207
+Bentley;Continental GT;2022;6;626;664;3.May;203,825
+Jaguar;F-Type R;2021;5;575;516;3.May;103,2
+Acura;NSX;2022;45415;573;476;2.Tem;157,5
+Lotus;Evora GT;2021;45415;416;317;3.Tem;99,8
+Porsche;Cayman GT4;2021;4;414;309;4.Şub;100,2
+Alfa Romeo;4C;2020;45474;237;258;4.Oca;67,15
+Audi;RS5;2022;45537;444;443;3.Tem;77,25
+BMW;M2 Competition;2021;3;405;406;4;58,9
+Chevrolet;Camaro ZL1;2021;45328;650;650;3.May;64,695
+Dodge;Charger SRT Hellcat;2022;45328;717;650;3.Haz;71,49
+Ford;GT;2022;45415;660;550;2.Ağu;500
+Lexus;LC 500;2022;5;471;398;4.Nis;92,95
+Maserati;GranTurismo;2020;45477;454;384;4.Ağu;150,4
+Nissan;370Z Nismo;2021;45476;350;276;4.Haz;47,82
+Rolls-Royce;Wraith;2022;45510;624;605;4.Nis;330
+Subaru;WRX STI;2021;45414;310;290;4.Haz;38,17
+Tesla;Model S Plaid;2022;N/A;1020;1050;1.Eyl;131,19
+Porsche;Cayman GT4;2021;4;414;309;4.Şub;102
+Lamborghini;Aventador;2021;45418;729;507;2.Eyl;393,695
+Ferrari;Portofino;2022;45538;591;413;3.Mar;218,75
+Audi;RS7;2021;4;591;590;3.May;114
+McLaren;600LT;2021;45507;592;457;2.Ağu;256,5
+BMW;M2;2022;3;405;406;4;58,9
+Mercedes-Benz;AMG GT;2021;4;523;494;3.Ağu;118,5
+Chevrolet;Camaro SS;2021;45328;455;455;4.Oca;40,59
+Ford;Mustang Mach 1;2021;5;480;420;4;52,72
+Nissan;370Z Nismo;2021;45476;350;276;4.Haz;45
+Porsche;Panamera Turbo;2022;4;620;604;3.Oca;174,3
+Lamborghini;Urus;2021;4;641;627;3.Şub;222,004
+Ferrari;SF90 Stradale;2022;4;986;590;2.May;625
+Audi;TT RS;2022;45414;394;354;3.Nis;67,895
+McLaren;GT;2021;4;612;465;3.Oca;210
+Dodge;Challenger SRT Hellcat;2021;45328;717;656;3.May;62,29
+Aston Martin;DBS Superleggera;2021;45327;715;663;3.Şub;304,995
+Jaguar;F-Type R;2021;5;575;516;3.May;103,2
+Lexus;LC 500;2022;5;471;398;4.Nis;93,05
+Porsche;Cayman GT4;2022;4;414;309;4.Şub;101,2
+BMW;M2 Competition;2022;3;405;406;4;59,895
+Audi;RS 5 Coupe;2021;45537;444;443;3.Tem;75,1
+Chevrolet;Camaro ZL1;2021;45328;650;650;3.May;64,195
+Lotus;Evora GT;2022;45415;416;317;3.Ağu;105
+McLaren;GT;2021;4;612;465;3.Oca;211
+Mercedes-Benz;SLS AMG Black Series;2014;45328;622;468;3.May;275
+Bugatti;Chiron;2021;8;1500;1180;2.Nis;2,998,000
+Koenigsegg;Jesko;2021;5;1280;1015;2.May;3,000,000
+Ferrari;SF90 Stradale;2021;4;986;590;2.May;625
+Lamborghini;Aventador SVJ;2020;45418;770;531;2.Ağu;573,966
+Rimac;C_Two;2022;Electric;1914;1732;Oca.85;2,400,000
+Pagani;Huayra Roadster BC;2021;6;791;774;2.May;3,500,000
+Pininfarina;Battista;2022;Electric;1874;1696;1.Eyl;2,500,000
+Acura;NSX;2022;45415;573;476;2.Eyl;157,5
+Aston Martin;Vantage;2021;4;503;505;3.May;146
+Bentley;Continental GT;2022;4;542;568;3.Eyl;219,8
+Dodge;Challenger SRT Hellcat;2022;45328;717;656;3.May;70
+Jaguar;F-Type;2022;2;296;295;5.Nis;61,6
+Kia;Stinger;2022;45354;368;376;4.Tem;52,2
+Lotus;Evora GT;2021;45415;416;317;3.Ağu;100,45
+Maserati;GranTurismo;2021;45477;454;384;4.Ağu;134,3
+Porsche;718 Cayman GT4;2022;4;414;309;4.Şub;102,55
+Alfa Romeo;Giulia Quadrifoglio;2021;45537;505;443;3.Ağu;76,4
+Audi;RS7;2021;4;591;590;3.May;114
+BMW;M5;2022;45386;600;553;3.Şub;103,5
+Chevrolet;Camaro ZL1;2022;45328;650;650;3.May;69
+Ford;GT;2022;45415;660;550;3;500
+Lamborghini;Aventador;2021;45418;770;531;2.Ağu;417,826
+McLaren;Artura;2021;3;671;531;3;225
+Mercedes-Benz;SLS AMG;2021;4;577;516;3.Haz;247,5
+Nissan;370Z Nismo;2021;45476;350;276;4.Ağu;45,79
+Porsche;Taycan;2022;Electric;616;774;2.Haz;79,9
+Tesla;Model S;2022;Electric;1020;1050;Oca.98;119
+Aston Martin;DBS Superleggera;2022;45327;715;664;3.Şub;307,82
+Bentley;Continental GT;2022;4;542;568;3.Nis;207,825
+Bugatti;Chiron;2021;8;1479;1180;2.Mar;2,998,000
+McLaren;570S;2021;45507;562;443;3.Oca;202,5
+Porsche;Taycan Turbo S;2021;Electric;750;774;2.Haz;185
+Lamborghini;Aventador S;2021;45418;730;509;2.Eyl;417,826
+Ferrari;F8 Tributo;2022;45538;710;568;2.Ağu;276,55
+Audi;RS 7;2022;4;591;590;3.May;114
+BMW;M2 CS;2022;3;444;406;4;84,595
+Mercedes-Benz;SLS AMG;2021;45328;622;468;3.Şub;275
+Chevrolet;Camaro ZL1;2021;45328;650;650;3.May;63
+Ford;GT;2022;45415;660;550;3;500
+Jaguar;F-Type;2021;5;575;516;3.May;103,2
+Lotus;Evora GT;2021;45415;416;317;3.Ağu;96,95
+Maserati;GranTurismo;2022;45477;454;384;4.Ağu;134,3
+McLaren;765LT;2021;4;755;590;2.Ağu;358
+Nissan;370Z;2021;45476;332;270;5;30
+Pagani;Huayra;2021;6;730;738;3;2,600,000
+Porsche;Panamera Turbo S;2021;4;620;604;2.Eyl;180
+Tesla;Model S Plaid;2021;Electric;1020;1050;1.Eyl;131,1
+Aston Martin;DB11;2021;4;503;513;4;201,495
+Dodge;Challenger Hellcat Redeye;2022;45328;797;707;3.Nis;82,19
+Lotus;Evora;2021;45415;416;317;3.Ağu;96,95
+Acura;NSX;2021;45415;573;476;2.Tem;159,495
+Alfa Romeo;Giulia Quadrifoglio;2021;45537;505;443;3.Ağu;76,95
+Bentley;Continental GT;2021;6;626;664;3.Mar;202,5
+Jaguar;F-Type;2022;3;380;339;4.Eyl;70,1
+Koenigsegg;Jesko;2022;5;1280;1015;2.May;3,000,000
+Lexus;LC 500;2021;5;471;398;4.Nis;92,95
+Maserati;GranTurismo;2022;45477;454;384;4.Ağu;132,795
+McLaren;GT;2022;4;612;465;3.Oca;215,5
+Mercedes-AMG;C 63 S Coupe;2022;4;503;516;3.Tem;80,9
+Porsche;718 Cayman;2021;2;300;280;4.Eyl;59,9
+Rolls-Royce;Wraith;2021;45510;624;605;4.Mar;330
+Tesla;Roadster;2022;-;1000;-;1.Eyl;200
+Chevrolet;Camaro SS;2021;45328;455;455;4;40
+Ford;GT;2022;45415;660;550;3;500
+Acura;NSX;2022;45415;573;476;2.Tem;157,5
+Aston Martin;DB11;2021;45327;630;516;3.Tem;209
+Bentley;Continental GT;2022;4;542;568;3.Eyl;202,5
+Bugatti;Chiron;2021;8;1500;1180;2.Nis;3,000,000
+Dodge;Challenger Hellcat;2022;45328;717;656;3.May;67,5
+Jaguar;F-Type;2021;5;575;516;3.May;103,2
+Koenigsegg;Jesko;2022;5;1280;1106;2.May;2,800,000
+Lexus;LC;2021;5;471;398;4.Nis;92,95
+Lotus;Evora GT;2021;45415;416;317;3.Ağu;104,2
+Maserati;GranTurismo;2021;45477;454;384;4.Tem;133,05
+McLaren;570S;2021;45507;562;443;3.Oca;196,35
+Mercedes-Benz;AMG C63;2022;4;503;516;3.Ağu;69,9
+Pagani;Huayra BC;2021;6;791;774;2.Tem;2,600,000
+Porsche;Cayman GT4;2022;4;414;309;4.Şub;102,9
+Rimac;Nevera;2022;Electric;1914;1696;Oca.85;2,400,000
+Rolls-Royce;Wraith;2021;45479;624;605;4.Nis;338
+Tesla;Roadster;2022;Electric;1000;10;1.Eyl;200
+Acura;NSX;2022;45415;573;476;2.Tem;157,5
+Aston Martin;Vantage;2021;4;503;505;3.May;150
+Bentley;Continental GT;2021;6;626;664;3.Haz;218,4
+Dodge;Challenger SRT Hellcat Redeye;2021;45328;797;707;3.May;73
+Jaguar;F-Type R;2022;5;575;516;3.May;103,2
+Lexus;LC 500;2021;5;471;398;4.Nis;92,95
+Lotus;Evora GT;2021;45415;416;317;3.Ağu;104,97
+Maserati;GranTurismo;2021;45477;454;384;4.Ağu;132,4
+Porsche;Cayman GT4;2021;4;414;309;4.Şub;101,2
+Tesla;Roadster;2023;Electric;1;737;< 1.9;200
+Alpine;A110;2021;45505;288;236;4.Nis;71,5
+Audi;RS7;2021;4;591;590;3.May;114
+BMW;M4;2021;3;473;406;4.Oca;71,8
+Chevrolet;Camaro ZL1;2021;45328;650;650;3.May;64,195
+Dodge;Viper;2017;45390;645;600;3.Mar;118,795
+Ferrari;Portofino;2021;45538;591;560;3.May;218,75
+Jaguar;F-Type;2022;3;296;295;5.Nis;61,6
+Lamborghini;Aventador SVJ;2021;45418;770;531;2.Ağu;517,7
+McLaren;600LT;2021;45507;592;457;2.Ağu;240
+Aston Martin;DB11;2021;45327;630;516;3.May;221,4
+Bentley;Continental GT;2021;6;626;664;3.Haz;202,5
+Bugatti;Chiron;2022;8;1500;1180;2.Nis;3,000,000
+Dodge;Challenger SRT Hellcat;2021;45328;717;656;3.May;64,1
+Jaguar;F-Type R;2022;5;575;516;3.May;103,2
+Koenigsegg;Jesko;2022;5;1280;1015;2.May;2,800,000
+Lexus;LC 500;2021;5;471;398;4.Nis;92,95
+Lotus;Evora GT;2021;45415;416;317;3.Ağu;100,45
+Maserati;GranTurismo;2021;45477;454;384;4.Ağu;150,98
+McLaren;Artura;2022;3;671;531;3;225
+Mercedes-AMG;C 63 S;2022;4;503;516;3.Tem;81,55
+Pagani;Huayra;2021;6;764;738;2.Ağu;3,500,000
+Porsche;Cayman GT4;2021;4;414;309;4.Şub;102,55
+Rimac;C_Two;2022;N/A;1888;1696;1.Ağu;2,400,000
+Rolls-Royce;Wraith;2021;45449;624;642;4.Nis;330
+Tesla;Roadster;2022;N/A;10000;0;1.Eyl;200
+Toyota;Supra;2022;3;382;368;3.Eyl;43,09
+Acura;NSX;2021;45415;573;476;2.Tem;157,5
+Aston Martin;Vantage;2021;4;503;505;3.May;146
+Bentley;Continental GT;2022;4;542;568;3.Eyl;207,825
+Dodge;Challenger SRT Hellcat;2021;45328;717;656;3.May;64,195
+Jaguar;F-Type;2022;3;380;339;4.Ağu;62,25
+Lexus;LC 500;2022;5;471;398;4.Nis;92
+Lotus;Evora GT;2021;45415;416;317;3.Ağu;105
+Maserati;GranTurismo;2022;45477;454;384;4.Tem;134,3
+McLaren;570S;2022;45507;562;443;2.Eyl;204,55
+Porsche;Cayman GT4;2021;4;414;309;4.Şub;102
+Tesla;Model S Plaid;2021;Electric (tri-motor);1020;1050;1.Eyl;141,19
+Audi;RS 5;2021;45537;444;443;3.May;75,1
+BMW;M2 Competition;2022;3;405;406;4;59,895
+Chevrolet;Camaro ZL1;2021;45328;650;650;3.May;64,995
+Dodge;Viper ACR;2017;45390;645;600;3.Mar;126,19
+Ford;GT;2021;45415;660;550;2.Eyl;500
+Porsche;Taycan 4S;2022;45414;482;472;3.Ağu;102,9
+Lamborghini;Aventador S;2021;45418;730;509;2.Eyl;417,65
+Aston Martin;DB11;2021;45327;630;516;3.May;205
+Alfa Romeo;Giulia Quadrifoglio;2022;45537;505;443;3.Ağu;81,25
+Audi;RS7 Sportback;2022;4;591;590;3.May;115,045
+BMW;M4 Competition;2021;3;503;479;3.Eyl;75,695
+Chevrolet;Camaro SS;2022;45328;455;455;4.Oca;42
+Dodge;Charger Hellcat;2021;45328;717;650;3.Haz;71,49
+Ferrari;F8 Tributo;2021;45538;710;568;2.Eyl;274,28
+Ford;GT;2021;45415;660;550;2.Ağu;500
+Jaguar;F-Type R;2021;5;575;516;3.May;103,2
+Koenigsegg;Jesko Absolut;2022;5;1600;1106;2.Oca;2,800,000
+Lexus;LC 500;2021;5;471;398;4.Nis;93,05
+Lotus;Evija;2022;Electric;1973;1254;2.May;2,750,000
+McLaren;GT;2022;4;612;465;3.Şub;210
+Mercedes-Benz;AMG GT Black Series;2021;4;720;590;3.Şub;326,05
+Porsche;Cayman GT4;2021;4;414;309;4.Şub;102,5
+Lamborghini;Aventador;2021;45418;770;531;2.Ağu;417,65
+Ferrari;Portofino;2021;45538;591;560;3.Mar;218,75
+Audi;TT RS;2022;45414;394;354;3.Haz;69
+McLaren;600LT Spider;2021;45507;592;457;2.Ağu;256,5
+BMW;M4;2022;3;473;406;4.Oca;72,8
+Mercedes-Benz;AMG C 63;2022;4;503;516;3.Ağu;70
+Chevrolet;Camaro SS 1LE;2021;45328;455;455;4;44,5
+Ford;Mustang Mach 1;2021;5;480;420;4;51
+Nissan;370Z Nismo;2021;45476;350;276;5.Şub;45
+Aston Martin;Vantage;2021;4;503;505;3.May;146
+Bugatti;Chiron;2022;8;1500;1180;2.Nis;3,000,000
+Koenigsegg;Jesko;2021;5;1262;1106;2.May;3,000,000
+Pagani;Huayra;2021;6;764;738;2.Haz;2,600,000
+McLaren;Speedtail;2021;4;1035;848;2.May;2,300,000
+Lamborghini;Sián;2021;45418;819;531;2.Ağu;3,600,000
+Rimac;C_Two;2021;Electric;1914;1732;1.Ağu;2,400,000
+Porsche;Cayman;2022;2;300;280;4.Eyl;59,9
+Lamborghini;Aventador;2021;45418;770;531;2.Ağu;393,695
+Ferrari;Portofino;2021;45538;591;413;3.May;215
+Audi;RS 5;2022;45537;444;443;3.Tem;75,1
+McLaren;GT;2021;4;620;465;3.Oca;210
+BMW;Z4 M40i;2022;3;382;369;4.Mar;63,7
+Mercedes-Benz;SLC 43;2020;3;385;384;4.Haz;62
+Chevrolet;Camaro SS;2022;45328;455;455;4.Mar;42,5
+Ford;Mustang GT;2022;5;460;420;4.Mar;36,12
+Nissan;370Z Nismo;2020;45476;350;276;4.Haz;45,79
+Aston Martin;Vantage;2022;4;503;505;3.Haz;146
+Bentley;Continental GT;2021;4;626;664;3.Mar;220
+Porsche;718 Boxster;2022;2;300;280;4.Eyl;62
+Lamborghini;Urus;2021;4;641;627;3.Haz;222,004
+Ferrari;F8 Spider;2021;45538;710;568;2.Eyl;280
+Audi;TT RS;2022;45414;394;354;3.Haz;69,9
+McLaren;570S;2021;45507;562;443;2.Eyl;208,8
+BMW;M4;2022;3;473;406;4;72,8
+Porsche;718 Cayman;2022;2;300;280;4.Eyl;60,5
+Lamborghini;Aventador;2021;45418;730;509;2.Eyl;393,695
+Ferrari;SF90 Stradale;2022;4;986;590;2.May;625
+Audi;RS5;2022;45537;444;443;3.Tem;75,1
+McLaren;GT;2021;4;612;465;3.Şub;208,8
+BMW;M2;2022;3;405;406;4;58,9
+Mercedes-Benz;SLS AMG;2015;45328;622;468;3.Haz;229
+Chevrolet;Camaro ZL1;2021;45328;650;650;3.May;62
+Ford;GT;2022;45415;660;550;3;500
+Nissan;370Z Nismo;2020;45476;350;276;5.Şub;46,2
+Dodge;Challenger SRT Hellcat;2021;45328;717;656;3.Haz;71
+Aston Martin;DBS Superleggera;2021;45327;715;663;3.Şub;308
+Alfa Romeo;Giulia Quadrifoglio;2022;45537;505;443;3.Ağu;80,5
+Jaguar;F-Type R;2021;5;575;516;3.May;105,9
+Lotus;Evora GT;2020;45415;416;317;3.Ağu;96,95
+Maserati;GranTurismo;2019;45477;454;384;4.Tem;150,98
+Porsche;Panamera Turbo S;2022;4;630;604;2.Eyl;180,8
+Lamborghini;Urus;2021;4;641;627;3.Şub;218
+Aston Martin;Vantage;2021;4;503;505;3.May;146
+Lotus;Evora;2021;45415;416;317;3.Ağu;94
+Alfa Romeo;4C Spider;2020;45474;237;258;4.Oca;67,15
+Jaguar;F-Type;2022;3;380;339;4.Eyl;70,9
+Maserati;GranTurismo;2021;45477;454;384;4.Tem;134,3
+Porsche;Cayman GT4;2021;4;414;309;4.Şub;100,2
+Audi;RS5 Coupe;2022;45537;444;443;3.Tem;76,45
+BMW;M2 Competition;2021;3;405;406;4;58,9
+Chevrolet;Camaro ZL1;2022;45328;650;650;3.May;64
+Dodge;Challenger SRT Hellcat;2022;45328;717;656;3.May;61,5
+Ford;GT;2021;45415;647;550;2.Ağu;500
+Lexus;LC 500;2022;5;471;398;4.Nis;92,95
+McLaren;570S;2022;45507;562;443;3.Oca;198,95
+Mercedes-AMG;C63 S Coupe;2021;4;503;516;3.Tem;77,95
+Nissan;370Z Nismo;2021;45476;350;276;4.Eyl;45,79
+Porsche;718 Boxster;2021;2;300;280;4.Eyl;62
+Lamborghini;Aventador S;2021;45418;729;507;2.Eyl;417,826
+Ferrari;F8 Tributo;2021;45538;710;568;2.Eyl;274,28
+Audi;TT RS Coupe;2021;45414;394;354;3.Haz;67,6
+BMW;M4 Coupe;2021;3;473;406;3.Ağu;71,8
+Acura;NSX;2021;45415;573;476;2.Tem;159,495
+Aston Martin;DBS Superleggera;2022;45327;715;664;3.Nis;314,5
+Bentley;Continental GT;2022;6;626;664;3.Mar;214,425
+Bugatti;Chiron;2022;8;1500;1180;2.Mar;3,000,000
+Dodge;Challenger SRT Hellcat;2022;45328;717;656;3.May;71,49
+Jaguar;F-Type;2021;5;575;516;3.May;105,9
+Koenigsegg;Jesko;2021;5;1280;1106;2.May;2,800,000
+Lexus;LC 500;2021;5;471;398;4.Nis;92,95
+Lotus;Evora GT;2021;45415;416;317;3.Ağu;104,4
+Maserati;GranTurismo;2022;45477;454;384;4.Tem;150,98
+McLaren;Artura;2022;3;671;531;3;225
+Pagani;Huayra;2021;6;764;738;2.Haz;2,600,000
+Porsche;Cayman GT4;2022;4;414;309;4.Şub;102
+Rimac;C_Two;2021;Electric;1914;1696;1.Eyl;2,400,000
+Rolls-Royce;Wraith;2021;45510;624;605;4.Nis;335,55
+Tesla;Model S Plaid;2021;Electric;1020;1050;1.Eyl;141,99
+Toyota;GR Supra;2022;3;382;368;3.Eyl;43,09
+TVR;Griffith;2021;5;500;420;3.Eyl;157,5
+Ultima;RS;2021;45328;1200;1300;2.Mar;220
+W Motors;Fenyr SuperSport;2022;45507;800;723;2.Tem;1,550,000
+Acura;NSX;2021;45415;573;476;2.Eyl;157,5
+Aston Martin;DBS Superleggera;2022;45327;715;663;3.Şub;308
+Bentley;Continental GT;2021;6;626;664;3.Haz;202,5
+Bugatti;Chiron;2021;8;1500;1180;2.Mar;3,000,000
+Dodge;Challenger SRT Hellcat;2021;45328;717;656;3.May;65
+Jaguar;F-Type;2021;3;380;339;4.Eyl;63,1
+Lexus;LC 500;2021;5;471;398;4.Nis;92,95
+Lotus;Evija;2022;Electric;1973;1254;2.May;2,600,000
+Maserati;GranTurismo;2021;45477;454;384;4.Ağu;134,3
+Porsche;Taycan;2021;Electric;616;774;2.Haz;185
+Rimac;C_Two;2022;Electric;1914;1696;1.Eyl;2,400,000
+Tesla;Model S Plaid;2022;Electric;1020;1050;Oca.98;140
+McLaren;Artura;2022;3;671;531;3;225
+Mercedes-Benz;AMG GT Black Series;2021;4;720;590;3.Oca;325
+Chevrolet;Camaro ZL1;2021;45328;650;650;3.May;63
+Ford;GT;2021;45415;647;550;3;500
+Aston Martin;DBS Superleggera;2021;45327;715;664;3.Nis;307,82
+Jaguar;F-Type;2022;5;575;516;3.May;103,2
+Dodge;Challenger SRT Hellcat Redeye;2021;45328;797;707;3.May;80,19
+Lotus;Evora GT;2022;45415;416;317;3.Ağu;105
+Alfa Romeo;4C Spider;2020;45505;237;258;4.Oca;68,745
+Subaru;WRX STI;2022;45414;310;290;5.Şub;38,17
+Acura;NSX;2022;45415;573;476;2.Tem;157,5
+Koenigsegg;Jesko;2021;5;1280;1015;2.May;2,800,000
+Tesla;Model S Plaid;2022;Electric;1020;1050;Oca.98;139,99
+Bugatti;Chiron Super Sport 300+;2022;8;1578;1180;2.Mar;5,200,000
+McLaren;Senna;2020;4;789;590;2.Tem;1,500,000
+Porsche;Taycan Turbo S;2022;Electric;750;774;2.Haz;185
+Mercedes-Benz;SLS AMG Black Series;2014;45328;622;468;3.May;275
+Lexus;LC 500;2022;5;471;398;4.Nis;93,05
+Chevrolet;Camaro ZL1;2022;45328;650;650;3.May;65
+Audi;RS 7 Sportback;2022;4;591;590;3.May;114
+Ford;GT;2022;45415;660;550;3;500
+BMW;M2 CS;2022;3;444;406;3.Ağu;84,595
+Porsche;Cayman GT4;2022;4;414;309;4.Şub;102,55
+Lamborghini;Aventador;2022;45418;770;531;2.Ağu;393,695
+Aston Martin;Vantage;2021;4;503;505;3.Haz;146
+Lotus;Evora GT;2021;45415;416;317;3.Ağu;96,95
+Porsche;Panamera Turbo S;2021;4;620;604;2.Eyl;180
+Lamborghini;Aventador S;2022;45418;729;507;2.Eyl;460,247
+Ferrari;SF90 Stradale;2021;4;986;590;2.May;625
+Audi;RS 6 Avant;2022;4;591;590;3.Oca;110,045
+McLaren;570S;2021;45507;562;443;3.Oca;192,5
+BMW;M5;2022;45386;600;553;3.Şub;103,5
+Mercedes-Benz;AMG C 63 S;2021;4;503;516;3.Tem;77,4
+Chevrolet;Camaro ZL1;2021;45328;650;650;3.May;64,695
+Dodge;Challenger SRT Hellcat;2021;45328;717;656;3.May;64,195
+Ford;GT;2021;45415;660;550;3;500
+Nissan;370Z Nismo;2020;45476;350;276;5;46,815
+Porsche;Cayman GT4;2021;4;414;309;4.Şub;102,55
+Audi;TT RS;2021;45414;394;354;3.Haz;67,895
+Chevrolet;Corvette Z06;2023;45417;625;650;2.Haz;85
+Lamborghini;Urus;2022;4;641;626;3.Şub;218,009
+Mercedes-Benz;AMG GT 63 S;2021;4;630;664;3.Oca;162,9
+Ferrari;Portofino M;2022;45538;612;560;3.May;245
+Bugatti;Chiron;2021;8;1479;1180;2.May;3,000,000
+Aston Martin;DBS Superleggera;2021;45327;715;664;3.Nis;304,995
+Lotus;Evora GT;2021;45415;416;317;3.Ağu;100,45
+Porsche;Cayman GT4;2022;4;414;309;4.Şub;100,2
+Acura;NSX;2021;45415;573;476;2.Tem;157,5
+Lexus;LC;2021;5;471;398;4.Nis;92,95
+Alfa Romeo;Giulia Quadrifoglio;2021;45537;505;443;3.Ağu;74,75
+Audi;RS7;2021;4;591;590;3.May;114
+Bentley;Continental GT;2021;6;626;664;3.Mar;218,4
+BMW;M5;2021;45386;600;553;3.Şub;103,5
+Chevrolet;Camaro ZL1;2021;45328;650;650;3.May;64,695
+Dodge;Challenger Hellcat;2021;45328;717;656;3.May;70,595
+Ford;GT;2022;45415;647;550;3;500
+Jaguar;F-Type R;2021;5;575;516;3.May;103,2
+Lamborghini;Aventador;2021;45418;730;509;2.Eyl;393,695
+McLaren;570S;2021;45507;562;443;3.Oca;203,5
+Mercedes-Benz;SLS AMG;2015;45328;583;479;3.Haz;221,58
+Nissan;370Z Nismo;2020;45476;350;276;4.Tem;47,19
+Porsche;Boxster;2021;2;300;280;4.Eyl;62
+Porsche;718 Cayman;2022;2;300;280;4.Eyl;61,5
+Lamborghini;Aventador;2021;45418;759;531;2.Eyl;393,695
+Ferrari;Roma;2021;45538;612;561;3.Mar;222,63
+Audi;RS 5;2022;45537;444;442;3.May;75,4
+McLaren;570S;2020;45507;562;443;3.Oca;208
+BMW;M2;2022;3;405;406;4.Şub;58,9
+Mercedes-Benz;SL;2022;3;429;384;4.Eyl;96,25
+Chevrolet;Camaro;2021;45328;455;455;4;25
+Ford;GT;2022;45415;660;550;3;500
+Nissan;370Z Nismo;2021;45476;350;276;5;45
+Aston Martin;DBS Superleggera;2021;45327;715;664;3.Nis;307,82
+Lotus;Evora GT;2021;45415;416;317;3.Ağu;100,45
+Maserati;GranTurismo;2021;45477;454;384;4.Tem;134,3
+Porsche;Panamera;2022;45537;325;331;5.Şub;88,55
+Lamborghini;Urus;2021;4;641;627;3.Haz;218,009
+Ferrari;SF90 Stradale;2021;4;986;590;2.May;625
+Audi;RS 6;2022;4;591;590;3.May;109
+McLaren;Artura;2022;3;671;531;3;225
+Porsche;Taycan 4S;2021;Electric (93 kWh);429;472;3.Ağu;103,8
+Lamborghini;Aventador S;2021;45418;730;509;2.Eyl;417,65
+Ferrari;SF90 Stradale;2021;4;986;590;2.May;625
+Audi;RS 7;2022;4;591;590;3.May;117
+McLaren;570S;2021;45507;562;443;3.Oca;192,5
+BMW;M4;2021;3;473;406;4;72,8
+Mercedes-Benz;SLS AMG;2015;45328;622;468;3.May;228
+Chevrolet;Camaro SS;2021;45328;455;455;4;42
+Ford;GT;2021;45415;660;550;3;500
+Nissan;370Z Nismo;2021;45476;350;276;5;48
+Aston Martin;DBS Superleggera;2021;45327;715;664;3.Şub;307,82
+Lexus;LC 500;2021;5;471;398;4.Nis;93
+Bentley;Continental GT;2021;4;626;664;3.Mar;202,5
+Maserati;GranTurismo;2021;45477;454;384;4.Tem;150,98
+Tesla;Model S Plaid;2022;Electric (100 kWh);1020;1050;Oca.98;131,19
+Rolls-Royce;Dawn;2021;45449;563;605;4.Mar;346,3
+Bugatti;Chiron Pur Sport;2021;8;1500;1180;2.Mar;3,599,000
+McLaren;Senna;2019;4;789;590;2.Tem;1,050,000
+Porsche;Panamera Turbo S E-Hybrid;2021;Hybrid (4.0);690;641;3;186,35
+Acura;NSX;2021;45415;573;476;2.Tem;157,5
+Aston Martin;DB11;2021;4;503;498;3.Tem;205,6
+Audi;RS7;2021;4;591;590;3.May;114
+Bentley;Continental GT;2021;6;626;664;3.Haz;201
+Bugatti;Chiron;2021;8;1500;1180;2.May;3,000,000
+Chevrolet;Camaro ZL1;2022;45328;650;650;3.May;67
+Dodge;Challenger Hellcat;2021;45328;717;656;3.May;64
+Ferrari;812 Superfast;2021;45418;789;530;2.Ağu;340
+Lamborghini;Aventador SVJ;2021;45418;770;531;2.Ağu;517,77
+McLaren;600LT Spider;2021;45507;592;457;2.Ağu;256,5
+Mercedes-AMG;GT Black Series;2021;4;720;590;3.Oca;325
+Nissan;400Z;2023;3;400;350;4;40
+Porsche;Cayman GT4;2021;4;414;309;4.Şub;101
+Rimac;Nevera;2021;Electric;1914;1696;1.Eyl;2,400,000
+Rolls-Royce;Wraith;2021;45510;624;605;4.Nis;330
+Tesla;Model S Plaid;2021;Electric;1020;N/A;1.Eyl;139,99
+Toyota;Supra;2021;3;382;368;3.Eyl;43
+Porsche;718 Boxster;2021;2;300;280;4.Eyl;62
+Porsche;718 Boxster;2022;2;300;280;4.Eyl;62
+Lamborghini;Aventador S;2021;45418;730;509;2.Eyl;417,826
+Ferrari;SF90 Stradale;2022;4;986;590;2.May;625
+Audi;RS 7;2022;4;591;590;3.May;114
+McLaren;Artura;2021;3;671;531;3;225
+BMW;M2;2022;3;405;406;4.Oca;58,9
+Mercedes-Benz;SLS AMG;2015;45328;583;479;3.Haz;221,58
+Chevrolet;Camaro ZL1;2021;45328;650;650;3.May;64,695
+Ford;GT;2022;45415;647;550;3;500
+Nissan;370Z Nismo;2021;45476;350;276;4.Ağu;45
+Dodge;Charger Hellcat;2021;45328;707;650;3.Haz;69,995
+Aston Martin;DBS Superleggera;2021;45327;715;663;3.Şub;305
+Alfa Romeo;Giulia Quadrifoglio;2021;45537;505;443;3.Ağu;75
+Audi;TT RS;2021;45414;394;354;3.Haz;68
+Bentley;Continental GT;2021;6;626;664;3.Haz;203,825
+BMW;M5;2022;45386;600;553;3.Şub;103,5
+Chevrolet;Corvette Stingray;2021;45328;495;470;2.Eyl;58,9
+Dodge;Challenger SRT Hellcat;2021;45328;717;656;3.May;63
+Ford;Mustang GT;2022;5;460;420;4;45
+Porsche;Cayman;2022;2;300;280;4.Eyl;59,9
+Lamborghini;Aventador;2021;45418;770;531;2.Ağu;417,826
+Ferrari;Roma;2022;45538;612;560;3.Mar;222,63
+Audi;RS7;2022;4;591;590;3.May;114
+McLaren;570S;2021;45507;562;443;2.Tem;204,995
+BMW;M4;2022;3;473;406;4.Oca;71,8
+Mercedes-Benz;SLS AMG;2021;45328;622;468;3.May;243,6
+Chevrolet;Camaro SS;2021;45328;455;455;4;42
+Ford;GT;2022;45415;660;550;2.Ağu;500
+Nissan;370Z Nismo;2021;45476;350;276;5;47,19
+Porsche;Panamera;2022;45537;325;331;5.Nis;88,55
+Lamborghini;Urus;2021;4;641;627;3.Şub;218
+Ferrari;SF90 Stradale;2021;4;986;590;2.May;625
+Audi;RS6;2022;4;591;590;3.May;113
+McLaren;Artura;2021;3;671;531;3;225
+BMW;M2;2022;3;405;406;4;58,9
+Mercedes-Benz;GT 63;2021;4;577;590;3.Mar;161,2
+Chevrolet;Camaro ZL1;2021;45328;650;650;3.May;63
+Aston Martin;DBS Superleggera;2021;45327;715;663;3.Şub;310
+Bugatti;Chiron;2022;8;1500;1180;2.Nis;3,000,000
+Koenigsegg;Jesko;2021;5;1280;1106;2.May;2,800,000
+Pagani;Huayra;2021;6;764;737;3;2,600,000
+Rimac;C_Two;2022;N/A;1914;1696;Oca.85;2,400,000
+McLaren;Senna;2021;4;789;590;2.Tem;1,000,000
+Porsche;918 Spyder;2015;45447;887;944;2.Şub;1,800,000
+Ferrari;SF90 Stradale;2021;4;986;590;2.May;625
+Lamborghini;Aventador SVJ;2020;45418;759;531;2.Ağu;517
+Audi;RS 6 Avant;2021;4;591;590;3.May;110
+Bentley;Continental GT Speed;2022;6;650;664;3.May;300
+Chevrolet;Camaro ZL1;2021;45328;650;650;3.May;68
+Dodge;Challenger SRT Hellcat;2021;45328;717;656;3.May;65
+Ford;GT;2021;45415;660;550;2.Eyl;500
+Lexus;LC 500;2022;5;471;398;4.Nis;92
+Lotus;Evija;2022;N/A;1972;1254;2.May;2,700,000
+Mercedes-AMG;GT Black Series;2021;4;720;590;3.Oca;330
+Aston Martin;DB11;2021;4;503;513;3.Eyl;205
+Bentley;Continental GT;2022;4;542;568;3.Eyl;229
+Jaguar;F-Type;2022;2;296;295;5.Nis;62,75
+Lotus;Evora GT;2021;45415;416;317;3.Ağu;100
+Maserati;GranTurismo;2021;45477;454;384;4.Tem;135
+Porsche;Boxster;2022;2;300;280;4.Eyl;63
+Alfa Romeo;4C;2020;45505;237;258;4.Şub;67,15
+Chevrolet;Camaro;2022;45328;455;455;4;62,195
+Dodge;Challenger;2022;45446;305;268;6.Nis;28
+Ford;GT;2022;45415;660;550;2.Eyl;500
+Audi;RS7;2022;4;591;590;3.May;115,045
+BMW;M4;2022;3;473;406;4.Oca;71,8
+Lamborghini;Aventador;2021;45418;729;507;2.Eyl;393,695
+Mercedes-Benz;AMG C 63;2021;4;469;479;3.Ağu;69,9
+Nissan;370Z;2021;45476;350;276;5.Mar;30,09
+Porsche;Cayman;2022;2;300;280;4.Eyl;68
+BMW;i8;2022;45413;369;184;4.Şub;147,5
+Chevrolet;Corvette Stingray;2021;45328;495;470;2.Eyl;58,9
+Porsche;Taycan Turbo S;2022;Electric;750;774;2.Haz;185
+Lamborghini;Aventador S;2021;45418;729;507;2.Eyl;417,65
+Ferrari;SF90 Stradale;2022;4;986;590;2.May;625
+Audi;RS7;2022;4;591;590;3.May;115
+McLaren;GT;2022;4;620;465;3.Oca;208
+BMW;M5;2022;45386;600;553;3.Şub;103,5
+Mercedes-Benz;SLS AMG;2021;4;730;590;2.Eyl;250
+Chevrolet;Camaro ZL1;2021;45328;650;650;3.May;63
+Ford;GT;2022;45415;660;550;2.Ağu;500
+Nissan;370Z Nismo;2021;45476;350;276;5;46,1
+Porsche;Panamera Turbo S;2022;4;630;604;3.Oca;180
+Lamborghini;Urus;2021;4;641;627;3.Şub;218
+Ferrari;Portofino;2022;45538;591;561;3.Nis;250
+Audi;TT RS;2022;45414;394;354;3.Haz;70
+McLaren;570S;2021;45507;562;443;3.Oca;200
+BMW;i8;2022;Hybrid;369;184;4.Şub;148,5
+Porsche;718 Cayman;2022;2;300;280;4.Eyl;61,5
+Lamborghini;Aventador;2021;45418;770;531;2.Ağu;417,826
+Ferrari;Portofino;2022;45538;612;561;3.Mar;245
+Audi;TT RS;2022;45414;394;354;3.Haz;67,8
+McLaren;GT;2022;4;620;465;3.Oca;211,3
+BMW;M4;2022;3;473;406;4.Oca;71,8
+Mercedes-Benz;SLS AMG;2015;45328;622;468;3.May;222,5
+Chevrolet;Camaro SS;2022;45328;455;455;4;43,995
+Ford;GT;2022;45415;660;550;2.Eyl;500
+Nissan;370Z Nismo;2021;45476;350;276;4.Ağu;45,79
+Porsche;911 Turbo S;2022;45507;640;590;2.Haz;208
+McLaren;765LT;2021;4;755;590;2.Ağu;358
+Lamborghini;Urus;2021;4;641;627;3.Haz;218,009
+Mercedes-AMG;GT Black Series;2021;4;720;590;3.Oca;325
+BMW;M5 Competition;2022;45386;617;553;3.Oca;103,5
+Audi;RS7;2022;4;591;590;3.May;115
+Aston Martin;Vantage;2022;4;503;505;3.May;152,995
+Ferrari;F8 Spider;2021;45538;710;568;2.Eyl;274,28
+Lexus;LC 500;2022;5;471;398;4.Nis;102,55
+Porsche;Taycan;2022;N/A;469;479;3.Ağu;79,9
+Lamborghini;Aventador SVJ;2021;45418;759;531;2.Ağu;517,77
+Ferrari;SF90 Stradale;2021;4;986;590;2.May;625
+Audi;RS6 Avant;2021;4;591;590;3.May;109
+McLaren;600LT Spider;2021;45507;592;457;2.Ağu;256,5
+BMW;M4;2022;3;473;406;3.Ağu;71,8
+Mercedes-Benz;AMG GT R;2021;4;577;516;3.May;180
+Chevrolet;Camaro ZL1;2021;45328;650;650;3.May;64,695
+Ford;GT;2022;45415;660;550;3;500
+Nissan;370Z Nismo;2021;45476;350;276;5;48
+Porsche;Panamera Turbo S E-Hybrid;2021;4;690;642;3;190
+Lamborghini;Urus;2021;4;641;627;3.May;218
+Ferrari;Portofino M;2021;45538;612;561;3.Nis;235
+Audi;TT RS;2022;45414;394;354;3.Haz;67,6
+McLaren;Artura;2022;3;671;531;3;225
+BMW;M2 CS;2022;3;444;406;3.Ağu;84,595
+Mercedes-Benz;SLS AMG Black Series;2021;45328;622;468;3.May;335
+Chevrolet;Camaro SS;2021;45328;455;455;4;42
+Porsche;718 Boxster;2022;2;300;280;4.Eyl;63
+Lamborghini;Aventador SVJ;2020;45418;759;531;2.Ağu;573,966
+Ferrari;SF90 Stradale;2022;4;986;590;2.May;625
+Audi;TT RS Coupe;2022;45414;394;354;3.May;68
+McLaren;GT;2020;4;612;465;3.Oca;210
+BMW;Z4 Roadster;2022;2;255;295;5.Şub;50
+Mercedes-Benz;SLS AMG;2015;45328;622;468;3.Haz;200
+Chevrolet;Camaro SS Convertible;2022;45328;455;455;4;49
+Ford;GT;2021;45415;660;550;2.Eyl;500
+Nissan;370Z Coupe;2020;45476;332;270;5;30,09
+Aston Martin;Vantage;2021;4;503;505;3.Haz;142,086
+Bentley;Continental GT;2022;6;626;664;3.Mar;225
+Bugatti;Chiron;2021;8;1479;1180;2.Nis;3,000,000
+Dodge;Challenger SRT Hellcat;2022;45328;717;656;3.May;68
+Jaguar;F-Type;2022;2;296;295;5.Nis;63,7
+Lotus;Evora GT;2021;45415;416;317;3.Ağu;100
+Maserati;GranTurismo;2022;45477;454;384;4.Tem;150,98
+Aston Martin;DBS Superleggera;2021;45327;715;664;3.Şub;304,995
+Lotus;Evora GT;2021;45415;416;317;3.Ağu;98,395
+Porsche;Panamera Turbo S E-Hybrid;2021;4;689;642;3;190
+Lamborghini;Aventador SVJ;2021;45418;759;531;2.Ağu;517
+Ferrari;SF90 Stradale;2021;4;986;590;2.May;625
+Audi;RS7;2022;4;591;590;3.May;117
+Mercedes-Benz;S63 AMG;2021;4;603;664;3.Nis;168
+Chevrolet;Camaro ZL1;2021;45328;650;650;3.May;64,5
+Ford;GT;2021;45415;660;550;2.Ağu;500
+Nissan;370Z Nismo;2021;45476;350;276;4.Tem;46
+Porsche;718 Cayman GT4;2022;4;414;309;4.Şub;102
+Mercedes-AMG;C63 S Coupe;2021;4;503;516;3.Tem;77,5
+Aston Martin;Vantage;2021;4;503;505;3.May;147
+McLaren;570S;2021;45507;562;443;3.Oca;193
+BMW;M5;2022;45386;600;553;3.Şub;103,5
+Dodge;Challenger SRT Hellcat;2021;45328;717;656;3.May;64
+Lexus;LC 500;2021;5;471;398;4.Nis;92,95
+Mercedes-AMG;GT 63 S;2021;4;630;664;3.Oca;162
+Audi;TT RS;2021;45414;394;354;3.Haz;67,6
+Acura;NSX;2021;45415;573;476;2.Eyl;157,5
+Porsche;Cayman GT4;2021;4;414;309;4.Şub;102
+Lamborghini;Aventador S;2021;45418;730;509;2.Eyl;417,826
+Ferrari;SF90 Stradale;2021;4;986;590;2.May;625
+Audi;RS 5;2022;45537;444;443;3.May;76,7
+McLaren;570S Spider;2020;45507;562;443;3.Oca;208,8
+BMW;M2 Competition;2022;3;405;406;4.Şub;58,9
+Mercedes-Benz;C 63 AMG;2022;4;469;479;3.Eyl;69
+Chevrolet;Camaro SS;2021;45328;455;455;4;42
+Ford;Mustang GT;2022;5;460;420;4.May;43
+Dodge;Challenger R/T;2021;45478;372;400;5.Oca;35
+Aston Martin;Vantage;2021;4;503;505;3.Haz;151
+Lotus;Evora GT;2021;45415;416;317;3.Ağu;105
+Alfa Romeo;4C Spider;2020;45474;237;258;4.Oca;69
+Jaguar;F-Type;2022;2;296;295;5.Nis;62,5
+Tesla;Roadster;2022;Electric;1000;737;1.Eyl;200
+Koenigsegg;Jesko;2022;5;1600;1106;2.May;3,000,000
+Bugatti;Chiron Super Sport 300+;2021;8;1578;1180;2.Nis;5,200,000
+Rimac;Nevera;2021;Electric;1914;1696;Oca.85;2,400,000
+Porsche;Cayman GT4;2022;4;414;309;4.Şub;102,1
+Chevrolet;Camaro ZL1;2022;45328;650;650;3.May;63
+Aston Martin;Vantage;2021;4;503;505;3.May;142,086
+Alfa Romeo;Giulia Quadrifoglio;2022;45537;505;443;3.Ağu;83,25
+Dodge;Challenger SRT Hellcat;2021;45328;717;656;3.May;65
+Lexus;LC 500;2022;5;471;398;4.Nis;93,05
+Audi;RS 7 Sportback;2021;4;591;590;3.May;114
+BMW;M4 Competition;2022;3;503;479;3.Ağu;74,7
+Mercedes-Benz;C63 S AMG;2022;4;503;516;3.Eyl;77,6
+Ford;GT;2022;45415;660;550;2.Eyl;500
+McLaren;GT;2021;4;620;465;3.Oca;210
+Porsche;Panamera Turbo S;2022;4;630;604;2.Eyl;181,1
+Lamborghini;Aventador S;2021;45418;730;507;2.Eyl;417,826
+Aston Martin;DBS Superleggera;2022;45327;715;664;3.Şub;329,1
+Audi;TT RS;2022;45414;394;354;3.Haz;67,6
+Mercedes-Benz;AMG C43 Coupe;2021;3;385;384;4.May;59,9
+BMW;i8;2022;45413;369;184;4.Şub;147,5
+Chevrolet;Corvette Stingray;2021;45328;490;465;2.Eyl;59,9
+Porsche;Taycan;2022;2.0 (Electric);469;263;3.Ağu;81,25
+Lamborghini;Aventador;2021;45418;730;509;2.Eyl;517
+Ferrari;Roma;2021;45538;611;560;3.Mar;222,62
+Audi;RS7;2022;4;591;590;3.May;115
+McLaren;GT;2021;4;612;465;3.Oca;210
+BMW;M2;2022;3;405;406;4.Şub;58,9
+Mercedes-Benz;C63 AMG;2021;4;469;479;3.Eyl;77
+Chevrolet;Camaro SS;2021;45328;455;455;4.Oca;43,995
+Ford;Mustang Mach 1;2021;5;480;420;4.Oca;51,72
+Nissan;370Z Nismo;2021;45476;350;276;4.Ağu;46,61
+Porsche;Panamera;2022;45537;325;331;5.Mar;88,55
+Lamborghini;Urus;2021;4;641;627;3.Haz;218,009
+Ferrari;SF90 Stradale;2021;4.0 (Hybrid);986;590;2.May;625
+Audi;RS6;2022;4;591;590;3.May;120
+McLaren;570S;2021;45507;562;443;3.Oca;192,5
+BMW;M4;2022;3;503;479;3.Ağu;74
+Mercedes-Benz;AMG A45;2021;2;382;354;4;50
+Chevrolet;Camaro ZL1;2021;45328;650;650;3.May;63,995
+Acura;NSX;2021;45415;573;476;2.Tem;157,5
+Aston Martin;Vantage;2021;4;503;505;3.May;142,086
+Bentley;Continental GT;2021;4;542;568;3.Mar;202,5
+Bugatti;Chiron;2022;8;1479;1180;2.Nis;2,900,000
+Ferrari;F8 Tributo;2022;45538;710;568;2.Ağu;275
+Lamborghini;Aventador;2021;45418;730;509;2.Eyl;517
+McLaren;GT;2021;4;612;465;3.Oca;201,5
+Mercedes-Benz;AMG GT R;2021;4;577;516;3.May;183
+Porsche;Taycan Turbo S;2021;Electric;750;774;2.Haz;185
+Audi;RS7;2021;4;591;590;3.May;114
+BMW;M4;2021;3;473;406;4.Oca;71,8
+Chevrolet;Camaro ZL1;2021;45328;650;650;3.May;63
+Dodge;Challenger SRT Hellcat Redeye;2022;45328;797;707;3.May;80,19
+Ford;GT;2022;45415;660;550;2.Ağu;500
+Jaguar;F-Type;2021;3;380;339;4.Nis;62,75
+Lexus;LC 500;2021;5;471;398;4.Nis;92
+Lotus;Evija;2021;Electric;2000;1254;2.Ağu;2,800,000
+Maserati;GranTurismo;2021;Electric;550;N/A;2.Ağu;200
+Nissan;370Z;2021;45476;332;270;5;30,09
+Rolls-Royce;Ghost;2021;45510;563;627;4.Haz;332,5
+Porsche;Taycan;2021;2;402;254;5.Oca;81,25
+Aston Martin;DB11;2021;4;630;516;3.Tem;198,995
+Lotus;Evora GT;2021;45415;416;317;3.Ağu;105
+Acura;NSX;2022;45415;573;476;2.Tem;157,5
+Tesla;Roadster;2022;0;10;7,376;1.Eyl;200
+Chevrolet;Camaro;2022;45328;455;455;4;25
+Dodge;Charger;2021;45328;797;707;3.Mar;72
+Jaguar;F-Type;2021;3;380;339;4.Eyl;62,75
+Lexus;LC 500;2021;5;471;398;4.Nis;93
+BMW;M4;2022;3;473;406;4.Oca;71,8
+Ford;GT;2021;45415;660;550;2.Eyl;500
+Maserati;GranTurismo;2021;45477;454;384;4.Tem;150,98
+McLaren;600LT;2021;45507;592;457;2.Ağu;256,5
+Mercedes-Benz;SLS AMG;2021;45328;622;468;3.Haz;254,995
+Nissan;370Z;2021;45476;332;270;5.Şub;30
+Audi;RS 7;2021;4;591;590;3.Nis;114
+Bentley;Continental GT;2021;4;542;568;3.Eyl;220
+Bugatti;Chiron;2021;8;1,5;1,18;2.Nis;3,000,000
+Porsche;Cayman;2022;2;300;280;4.May;59,9
+Aston Martin;Vantage;2021;4;503;505;3.May;147
+Alfa Romeo;4C Spider;2020;45474;237;258;4.Oca;67,15
+Audi;RS 5;2022;45537;444;443;3.May;75,1
+BMW;M2;2022;3;405;406;4;58,9
+Dodge;Challenger SRT Hellcat;2021;45328;717;656;3.May;60,695
+Ferrari;F8 Spider;2022;45538;710;568;2.Eyl;274,39
+Jaguar;F-Type;2021;3;296;295;5.Nis;64,7
+Lamborghini;Aventador;2021;45418;759;531;2.Eyl;517,77
+Lexus;LC 500;2022;5;471;398;4.Nis;92,95
+Lotus;Evora GT;2021;45415;416;317;3.Ağu;99,99
+Maserati;GranTurismo;2021;45477;454;384;4.Tem;150,8
+McLaren;GT;2021;4;612;465;3.Oca;210
+Mercedes-Benz;AMG C 63;2021;4;469;479;3.Ağu;67,6
+Nissan;370Z Nismo;2021;45476;350;276;4.May;45,79
+Porsche;Panamera;2022;45537;325;331;5.Mar;88,8
+Subaru;WRX STI;2021;45414;310;290;5.Şub;38,17
+Tesla;Roadster;2022;N/A;10;N/A;1.Eyl;200
+Porsche;718 Cayman;2022;2;300;280;4.Eyl;61,5
+Lamborghini;Aventador;2021;45418;729;509;2.Eyl;393,695
+Ferrari;SF90 Stradale;2022;4;986;590;2.May;625
+Audi;RS5 Coupe;2022;45537;444;443;3.May;76,35
+McLaren;570S;2021;45507;562;443;3.Oca;202
+BMW;M2;2022;3;405;406;4;58,9
+Mercedes-Benz;SL;2022;3;429;384;4.Nis;96
+Chevrolet;Camaro;2021;45328;455;455;4;25
+Ford;GT;2022;45415;660;550;2.Ağu;500
+Nissan;370Z;2021;45476;332;270;5.Mar;33
+Alfa Romeo;Giulia Quadrifoglio;2021;45537;505;443;3.Ağu;75,25
+Aston Martin;DB11;2022;4;630;516;3.Tem;201,495
+Bentley;Continental GT;2021;6;626;664;3.Mar;201
+Dodge;Challenger;2021;45388;485;475;3.Ağu;62
+Jaguar;F-Type R;2022;5;575;516;3.May;103,2
+Lexus;LC 500;2022;5;471;398;4.Nis;92,95
+Lotus;Evora GT;2021;45415;416;317;3.Ağu;99
+Maserati;GranTurismo;2021;45477;454;384;4.Tem;150
+Porsche;Cayman GT4;2021;4;414;309;4.Şub;102,5
+Aston Martin;Vantage;2022;4;503;505;3.May;149,995
+Dodge;Charger SRT Hellcat;2022;45328;717;650;3.May;78,595
+Audi;RS 7;2021;4;591;590;3.May;114
+Chevrolet;Camaro SS;2022;45328;455;455;4.Oca;37,5
+Ford;Mustang GT;2022;5;460;420;4;38,5
+Jaguar;F-Type R;2022;5;575;516;3.May;103,2
+Lexus;LC 500;2022;5;471;398;4.Nis;92,95
+McLaren;570S;2021;45507;562;443;3.Oca;208,8
+Mercedes-Benz;AMG C63;2022;4;469;479;3.Ağu;71,45
+Nissan;370Z Nismo;2021;45476;350;276;4.Eyl;47,82
+Porsche;Panamera GTS;2021;4;473;457;3.Eyl;134,15
+Audi;TT RS;2022;45414;394;354;3.Haz;67,6
+BMW;M4;2021;3;473;406;3.Ağu;71,8
+Ferrari;F8 Tributo;2021;45538;710;568;2.Ağu;274,28
+Lamborghini;Aventador;2021;45418;770;531;2.Eyl;393,695
+McLaren;GT;2021;4;612;465;3.Oca;250
+Mercedes-Benz;AMG GT 4-Door Coupe;2021;4;630;664;3.Oca;171,2
+Aston Martin;DBS Superleggera;2022;45327;715;663;3.Nis;321
+Lotus;Evora GT;2021;45415;416;317;3.Ağu;100,5
+Porsche;Taycan Turbo S;2021;Electric;750;774;2.Haz;185
+McLaren;570S;2021;45507;562;443;3.Oca;195
+Lamborghini;Aventador SVJ;2021;45418;759;531;2.Ağu;517,77
+Ford;GT;2021;45415;660;550;3;500
+Audi;RS7 Sportback;2022;4;591;590;3.May;114
+BMW;M4;2022;3;473;406;4.Oca;72,8
+Mercedes-AMG;C63 S;2022;4;503;516;3.Tem;78,1
+Chevrolet;Camaro ZL1;2021;45328;650;650;3.May;63
+Dodge;Charger Hellcat;2021;45328;717;650;3.Haz;70
+Alfa Romeo;Giulia Quadrifoglio;2021;45537;505;443;3.Ağu;78,45
+Tesla;Model S Plaid;2022;Electric;1,02;1,05;1.Eyl;141,19
+Ferrari;SF90 Stradale;2021;4;986;590;2.May;625
+Porsche;Panamera Turbo S E-Hybrid;2021;Hybrid;689;642;3;190
+McLaren;Artura;2022;3;671;531;3;225
+Lamborghini;Urus;2021;4;641;627;3.Haz;222
+Ford;Mustang Mach 1;2021;5;480;420;4;52,915
+Porsche;911;2022;3;379;331;4;101,2
+Lamborghini;Huracan;2021;45327;630;443;2.Ağu;274,39
+Ferrari;488 GTB;2022;45538;661;561;3;333,75
+Audi;R8;2022;45327;562;406;3.Şub;142,7
+McLaren;720S;2021;4;710;568;2.Tem;298
+BMW;M8;2022;45386;617;553;3.Oca;130
+Mercedes-Benz;AMG GT;2021;4;523;494;3.Ağu;118,5
+Chevrolet;Corvette;2021;45328;490;465;2.Ağu;59,9
+Ford;Mustang Shelby GT500;2022;45327;760;625;3.May;81
+Nissan;GT-R Nismo;2021;45507;600;481;2.May;212
+Dodge;Challenger SRT Hellcat;2021;45328;717;656;3.May;64,195
+Aston Martin;Vantage;2021;4;503;505;3.Haz;147
+Bugatti;Chiron;2022;8;1500;1180;2.May;3,900,000
+Koenigsegg;Jesko;2022;5;1280;1015;2.May;3,000,000
+Pagani;Huayra;2021;6;764;740;2.Ağu;2,600,000
+Rimac;Nevera;2022;Electric;1914;1696;Oca.85;2,400,000
+Lotus;Evija;2022;Electric;1973;1254;2.May;2,000,000
+Pininfarina;Battista;2021;Electric;1872;1696;1.Eyl;2,500,000
+Maserati;MC20;2021;3;621;538;2.Eyl;210
+Porsche;Cayman;2021;2;300;280;5.Oca;59,9
+Lamborghini;Aventador;2021;45418;730;509;2.Eyl;393,695
+Ferrari;SF90 Stradale;2021;4;986;590;2.May;625
+Audi;RS 5;2021;45537;444;443;3.May;75,1
+McLaren;GT;2022;4;612;465;3.Oca;210
+BMW;M2;2021;3;405;406;4;58,9
+Mercedes-Benz;SLS AMG;2021;45357;622;468;3.Haz;254,5
+Chevrolet;Camaro;2021;45328;455;455;4;25
+Ford;Mustang;2021;45353;310;350;5.Mar;27,205
+Nissan;370Z;2021;45476;332;270;5.Oca;30,09
+Aston Martin;Vantage;2021;4;503;505;3.Haz;146
+Bugatti;Chiron;2021;8;1479;1180;2.Nis;3,000,000
+Koenigsegg;Jesko;2022;5;1280;1106;2.May;3,000,000
+Lotus;Evija;2021;Electric Motor;1972;1254;2;2,000,000
+McLaren;Senna;2021;4;789;590;2.Tem;1,000,000
+Pagani;Huayra;2021;6;764;738;3;2,600,000
+Rimac;Nevera;2021;Electric Motor;1888;1696;Oca.85;2,400,000
